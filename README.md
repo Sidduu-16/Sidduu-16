@@ -770,8 +770,8 @@ open_to:
 <img src="https://img.shields.io/badge/InterviewBit-Profile-3F51B5?style=for-the-badge"/>
 </a>
 
-<a href="#">
-<img src="https://img.shields.io/badge/LinkedIn-Update%20URL-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/siddartha-nagapuri-37182a368">
+<img src="https://img.shields.io/badge/LinkedIn-Siddartha%20Nagapuri-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="#">
