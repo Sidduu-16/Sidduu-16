@@ -664,13 +664,23 @@ Open Source           ████░░░░░░
 
 # 🐍 Contribution Snake
 
+---
+
+# 🔥 Coding Streak
+
 <div align="center">
 
-> **Enable this after creating the GitHub Action in your profile repository.**
-
-<img src="https://raw.githubusercontent.com/Sidduu-16/Sidduu-16/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://streak-stats.demolab.com?user=Sidduu-16&theme=tokyonight&hide_border=true"/>
 
 </div>
+
+<div align="center">
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Sidduu1608?theme=dark&font=Poppins&ext=contest)](https://leetcode.com/u/Sidduu1608/)
+
+</div>
+
+---
 
 ---
 
