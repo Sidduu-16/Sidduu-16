@@ -642,15 +642,7 @@ Open Source           ████░░░░░░
 
 ---
 
-# 🏆 GitHub Trophies
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Sidduu-16&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&row=2&column=4"/>
-
-</div>
-
----
 
 # 📈 Contribution Activity
 
@@ -662,11 +654,31 @@ Open Source           ████░░░░░░
 
 ---
 
-# 🐍 Contribution Snake
-
 ---
 
 # 🔥 Coding Streak
+
+<div align="center">
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Sidduu1608?theme=dark&font=Poppins&ext=contest)](https://leetcode.com/u/Sidduu1608/)
+
+<br><br>
+
+<a href="https://leetcode.com/u/Sidduu1608/">
+<img src="https://img.shields.io/badge/LeetCode-Sidduu1608-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://www.codechef.com/users/sidduu_1608">
+<img src="https://img.shields.io/badge/CodeChef-sidduu__1608-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org/user/siddhuu1608/">
+<img src="https://img.shields.io/badge/GeeksforGeeks-siddhuu1608-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
+
+</div>
+
+---
 
 ---
 
